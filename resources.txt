@@ -1,0 +1,13 @@
+Apache Spark:
+
+Online Resources-
+https://www.datacamp.com/community/tutorials/apache-spark-tutorial-machine-learning
+https://sparkhub.databricks.com/resources/
+
+Books-
+Learning Spark
+Introduction to Apache Spark
+Advanced Analytics with Spark
+Machine Learning with Spark
+Spark GraphX in Action
+Spark in Action
