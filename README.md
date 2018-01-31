@@ -25,3 +25,7 @@ All the resources for data science and big data will be saved here
 5. Spark GraphX in Action
 
 6. Spark in Action
+
+# Data Science Podcasts
+
+1. [Data Framed by DataCamp](https://soundcloud.com/dataframed)
