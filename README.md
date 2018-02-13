@@ -4,6 +4,12 @@ All the resources for data science and big data will be saved here
 # Git guide
 [Jlord Git Guide](http://jlord.us/git-it/index.html)
 
+# Statitics
+
+### Books
+
+1. [An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/ref=sr_1_1_sspa?ie=UTF8&qid=1518481605&sr=8-1-spons&keywords=introduction+to+statistics+by+gareth&psc=1)
+
 # Apache Spark
 
 ### Online Resources
