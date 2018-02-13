@@ -4,7 +4,7 @@ All the resources for data science and big data will be saved here
 # Git guide
 [Jlord Git Guide](http://jlord.us/git-it/index.html)
 
-# Statitics
+# Statistics
 
 ### Books
 
