@@ -26,6 +26,8 @@ All the resources for data science and big data will be saved here
 
 2. [Resources on Spark by DataBricks](https://sparkhub.databricks.com/resources/)
 
+3. [Scala and Spark for Big Data & Machine Learning](https://www.udemy.com/scala-and-spark-for-big-data-and-machine-learning/learn/v4/overview)
+
 ### Books
 
 1. Learning Spark
