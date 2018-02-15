@@ -16,7 +16,7 @@ All the resources for data science and big data will be saved here
 
 ### Books
 
-1.[Learning Python by Fabrizio Romano (https://www.amazon.com/Learning-Python-Fabrizio-Romano/dp/1783551712)
+1. [Learning Python by Fabrizio Romano (https://www.amazon.com/Learning-Python-Fabrizio-Romano/dp/1783551712)
 
 # Apache Spark
 
