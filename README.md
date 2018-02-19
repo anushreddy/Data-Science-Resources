@@ -10,6 +10,32 @@ All the resources for data science and big data will be saved here
 
 1. [An Introduction to Statistical Learning: with Applications in R (Springer Texts in Statistics)](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/ref=sr_1_1_sspa?ie=UTF8&qid=1518481605&sr=8-1-spons&keywords=introduction+to+statistics+by+gareth&psc=1)
 
+2. [Think Stats](http://www.greenteapress.com/thinkstats/)
+
+3. [Statistical Inference for Data Science](https://leanpub.com/LittleInferenceBook)
+
+4. [Think Bayes](http://greenteapress.com/wp/think-bayes/)
+
+# Machine Learning
+
+### Books
+
+1. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+2. [Machine Learning Yearning by ANDREW NG](http://www.mlyearning.org/)
+
+# Data Science
+
+### Books
+
+1. [Data Jujitsu: The Art of Turning Data into Product](http://www.oreilly.com/data/free/data-jujitsu.csp)
+
+2. [Data Science for Business](http://iiseb.knu.ac.kr/Lecture/2017/BA/dsb.pdf)
+
+3. [R for Data Science](http://r4ds.had.co.nz/)
+
+4. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
 # Programming
 
 ## Python
