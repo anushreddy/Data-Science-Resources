@@ -36,6 +36,8 @@ All the resources for data science and big data will be saved here
 
 4. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
+5. [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
+
 # Programming
 
 ## Python
