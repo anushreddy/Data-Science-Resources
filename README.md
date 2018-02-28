@@ -70,6 +70,12 @@ All the resources for data science and big data will be saved here
 
 6. Spark in Action
 
+# Apache Hadoop
+
+### Books
+
+1. [Hadoop: The Definitive Guide, 4th Edition](http://shop.oreilly.com/product/0636920033448.do)
+
 # Data Science Podcasts
 
 1. [Data Framed by DataCamp](https://soundcloud.com/dataframed)
