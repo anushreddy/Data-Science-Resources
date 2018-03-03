@@ -24,6 +24,8 @@ All the resources for data science and big data will be saved here
 
 2. [Machine Learning Yearning by ANDREW NG](http://www.mlyearning.org/)
 
+3. [Text Analytics with Python](https://github.com/dipanjanS/text-analytics-with-python)
+
 # Data Science
 
 ### Books
