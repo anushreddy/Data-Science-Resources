@@ -16,15 +16,13 @@ All the resources for data science and big data will be saved here
 
 4. [Think Bayes](http://greenteapress.com/wp/think-bayes/)
 
-# Machine Learning
+# Programming
+
+## Python
 
 ### Books
 
-1. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
-
-2. [Machine Learning Yearning by ANDREW NG](http://www.mlyearning.org/)
-
-3. [Text Analytics with Python](https://github.com/dipanjanS/text-analytics-with-python)
+1. [Learning Python by Fabrizio Romano](https://www.amazon.com/Learning-Python-Fabrizio-Romano/dp/1783551712)
 
 # Data Science
 
@@ -40,13 +38,19 @@ All the resources for data science and big data will be saved here
 
 5. [Data Science from Scratch](http://shop.oreilly.com/product/0636920033400.do)
 
-# Programming
+6. [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book2016June9.pdf)
 
-## Python
+# Machine Learning
 
 ### Books
 
-1. [Learning Python by Fabrizio Romano](https://www.amazon.com/Learning-Python-Fabrizio-Romano/dp/1783551712)
+1. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+2. [Machine Learning Yearning by ANDREW NG](http://www.mlyearning.org/)
+
+3. [Text Analytics with Python](https://github.com/dipanjanS/text-analytics-with-python)
+
+4. [Hands-On Machine Learning and Big Data](http://www.kareemalkaseer.com/books/ml)
 
 # Apache Spark
 
