@@ -40,6 +40,10 @@ All the resources for data science and big data will be saved here
 
 6. [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book2016June9.pdf)
 
+### Resources
+
+1. [Hands-On Data Science Education by Kaggle](https://www.kaggle.com/learn/overview)
+
 # Machine Learning
 
 ### Books
