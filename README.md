@@ -40,6 +40,8 @@ All the resources for data science and big data will be saved here
 
 6. [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book2016June9.pdf)
 
+7. [Data Strategy: How to Profit from a World of Big Data, Analytics and the Internet of Things](https://www.amazon.com/Data-Strategy-Profit-Analytics-Internet/dp/074947985X)
+
 ### Resources
 
 1. [Hands-On Data Science Education by Kaggle](https://www.kaggle.com/learn/overview)
