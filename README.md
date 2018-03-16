@@ -58,6 +58,8 @@ All the resources for data science and big data will be saved here
 
 4. [Hands-On Machine Learning and Big Data](http://www.kareemalkaseer.com/books/ml)
 
+5. [Pattern Recognition and Machine Learning by Christopher M. Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+
 # Apache Spark
 
 ### Online Resources
