@@ -24,6 +24,10 @@ All the resources for data science and big data will be saved here
 
 1. [Learning Python by Fabrizio Romano](https://www.amazon.com/Learning-Python-Fabrizio-Romano/dp/1783551712)
 
+### MOOC's
+
+1. [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+
 # Data Science
 
 ### Books
@@ -72,17 +76,17 @@ All the resources for data science and big data will be saved here
 
 ### Books
 
-1. Learning Spark
+1. [Learning Spark](https://www.amazon.com/_/dp/1449358624?tag=oreilly20-20)
 
-2. Introduction to Apache Spark
+2. [Introduction to Apache Spark](http://shop.oreilly.com/product/0636920036807.do)
 
-3. Advanced Analytics with Spark
+3. [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do)
 
-4. Machine Learning with Spark
+4. [Machine Learning with Spark](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-spark)
 
-5. Spark GraphX in Action
+5. [Spark GraphX in Action](https://www.manning.com/books/spark-graphx-in-action)
 
-6. Spark in Action
+6. [Spark in Action](https://www.manning.com/books/spark-in-action)
 
 # Apache Hadoop
 
