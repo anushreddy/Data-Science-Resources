@@ -1,5 +1,5 @@
 # Data-Science-Resources
-All the resources for data science and big data will be saved here
+All the resources for data science and big data will be saved here. This Repository includes Books, MOOC's, Podcasts, Tutorials in Statistics, Programming(Python and R), Data Science, Big Data framework to begin a career in Data Science or Big Data 
 
 # Git guide
 [Jlord Git Guide](http://jlord.us/git-it/index.html)
