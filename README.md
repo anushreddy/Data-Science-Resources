@@ -97,3 +97,5 @@ All the resources for data science and big data will be saved here. This Reposit
 # Data Science Podcasts
 
 1. [Data Framed by DataCamp](https://soundcloud.com/dataframed)
+
+2. [andreaskayy Podcast](https://soundcloud.com/andreaskayy)
